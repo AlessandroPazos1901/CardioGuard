@@ -1,0 +1,11 @@
+{
+  "appId": "pe.cardioalerta.app",
+  "appName": "Cardio Alerta",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

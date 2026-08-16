@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cardio Alerta</string>
+    <string name="title_activity_main">Cardio Alerta</string>
+    <string name="package_name">pe.cardioalerta.app</string>
+    <string name="custom_url_scheme">pe.cardioalerta.app</string>
+</resources>
